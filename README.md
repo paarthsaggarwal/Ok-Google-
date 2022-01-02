@@ -1,4 +1,4 @@
-# Ok-Google-
+# Ok-Google
 Used raspberry pi, microphone and speaker to develop Ok Google
 
 Followed the Google documentation to create the Ok Google project. 
